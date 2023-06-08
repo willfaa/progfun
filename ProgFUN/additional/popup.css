@@ -1,0 +1,93 @@
+/* popup */
+/* .main#main1.active {
+  filter: blur(5px);
+  pointer-events: none;
+  user-select: none;
+}
+#popup {
+  z-index: 30;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px 40px;
+  width: 450px;
+  background-color: var(--fc5);
+  visibility: hidden;
+  opacity: 0;
+  border-radius: 15px;
+  text-align: center;
+}
+
+#popup.active {
+  top: 50%;
+  visibility: visible;
+  opacity: 1;
+}
+.close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  cursor: pointer;
+}
+.form-box .close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  background: transparent;
+}
+
+.form-box h1 {
+  font-size: 30px;
+  margin-bottom: 20px;
+  color: var(--fc2);
+  font-family: var(--ff-play);
+  text-transform: capitalize;
+  position: relative;
+}
+.form-box h1::after {
+  content: '';
+  width: 30px;
+  height: 4px;
+  border-radius: 3px;
+  background: var(--fc1);
+  position: absolute;
+  bottom: -12px;
+  left: 50%;
+  transform: translate(-50%);
+}
+.inputfield {
+  background: #eaeaea;
+  margin: 15px 0px;
+  border-radius: 2px;
+  display: flex;
+  text-align: center;
+  height: 40px;
+  align-items: center;
+}
+.inputfield i {
+  background-color: transparent;
+  margin-left: 5px;
+}
+.inputfield input {
+  width: 100%;
+  background: transparent;
+  border: 0;
+  outline: 0;
+  padding: 15px 15px;
+}
+.btn-field {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.btn-field button {
+  cursor: pointer;
+  flex-basis: 45%;
+  border: 0;
+  outline: 0;
+  background: var(--fc2);
+  border-radius: 20px;
+  height: 40px;
+} */
+/* popup end
